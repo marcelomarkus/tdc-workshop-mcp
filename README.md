@@ -3,7 +3,7 @@
 ![TDLW Umuarama](tdlw_umuarama.png)
 
 Este projeto foi desenvolvido durante o workshop do evento [The Developers Life
-Weekend](https://weekend.developerslife.tech/sobre), em Umuarama - PR.
+Weekend](https://weekend.developerslife.tech/sobre), em Umuarama - PR (online).
 
 ## Sobre o workshop
 
