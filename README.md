@@ -1,9 +1,8 @@
 # Workshop MCP
 
-![TDLW Umuarama](tdlw_umuarama.png)
+![TDC Workshop](tdc-workshop.png)
 
-Este projeto foi desenvolvido durante o workshop do evento [The Developers Life
-Weekend](https://weekend.developerslife.tech/sobre), em Umuarama - PR (online).
+Este projeto foi desenvolvido durante o workshop do evento TDC - community.
 
 ## Sobre o workshop
 
@@ -36,8 +35,8 @@ O projeto usa `uv.lock` para manter as versões das dependências reproduzíveis
 Clone o repositório e entre na pasta do projeto:
 
 ```bash
-git clone https://github.com/marcelomarkus/tdlw-workshop-mcp.git
-cd tdlw-workshop-mcp
+git clone https://github.com/marcelomarkus/tdc-workshop-mcp.git
+cd tdc-workshop-mcp
 ```
 
 Sincronize as dependências. O comando cria ou atualiza o ambiente virtual
@@ -200,7 +199,7 @@ As consultas meteorológicas usam `wttr.in/<cidade>?format=%t`.
 │   ├── 06-auth/
 │   └── 07-mcp-api/
 ├── slide/            # Material de apoio
-│   └── TDLW-Umuarama.pdf
+│   └── tdc-workshop-mcp.pdf
 ├── opencode.json    # Configuração do OpenCode
 ├── pyproject.toml   # Metadados e dependências
 ├── uv.lock          # Versões resolvidas
